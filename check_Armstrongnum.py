@@ -1,3 +1,4 @@
+#153=1^3 + 5^3 +3^3 = 153
 n=int(input("Enter a number : "))
 sum=0
 count=len(str(n))

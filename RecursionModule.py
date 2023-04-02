@@ -15,3 +15,11 @@ def gcd(a,b):
     else:
         temp=a%b
         return gcd(b,temp)
+#fibonacci using recursion
+def fibo(a,b,n):
+    if n==0:
+        return
+    else:
+        c=a+b
+        print(c,end=" ")
+        fibo(b,c,n-1)

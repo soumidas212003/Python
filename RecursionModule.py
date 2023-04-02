@@ -23,3 +23,11 @@ def fibo(a,b,n):
         c=a+b
         print(c,end=" ")
         fibo(b,c,n-1)
+#Factorial using recursion
+def facto(n):
+    if n==0 or n==1:
+        return 1
+    else:
+        x=facto(n-1)
+        y=n*x
+        return y

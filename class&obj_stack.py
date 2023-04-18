@@ -3,19 +3,24 @@ class create_stack:
         self.stack=[]
     def IsEmpty(self):
         if self.stack==[]:
-            return "Underflow Occur"
+            return True
+        else:
+            return False
     def push(self,num):
         self.stack.append(num)    
     def pop(self):
-        return self.stack.pop()
+        if self.IsEmpty():
+            return "Underflow occur"
+        else:
+            return self.stack.pop()
     def peek(self):
-        if self.stack==[]:
-            return "Empty list"
+        if self.IsEmpty():
+            return "Underflow occur"
         else:
             return self.stack[-1]
     def Display(self):
-        if self.stack==[]:
-            print("Empty list")
+        if self.IsEmpty():
+            print("Underflow occur")
         else:
             print (self.stack[::-1])
 obj=create_stack()

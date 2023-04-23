@@ -1,4 +1,4 @@
-#1+2+4+7+11+16...n trems
+#1+2+4+7+11+16...n terms
 n=int(input("Enter a number : "))
 c=1
 sum=0

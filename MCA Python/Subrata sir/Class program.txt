@@ -1,0 +1,38 @@
+Home Task:
+1. Write a program to find the largest difference between the elements of a list.
+2. Write a menu driven program to add, edit, delete and display operation on a list.
+3. Write a program to check whether an inputted number is present or not in a list. If present, print its index position.
+4. Write a program  to create a list containing first n Fibonacci numbers.
+
+5. Write a recursive function to find Sum of the digit (SOD) of a function.
+6.GCD of 2 integer using recursion
+7.Binary Equivalent of any decimal number
+8.Decimal Equivalent of any base.
+9.Reverse of a number.
+
+10.Write a function to find the nth Fibonacci number.
+11. To Display first n Fibonacci number.
+
+12.Write a program to generate N Fibonacci number using list.
+
+13. Insertion Sort using function
+14. Selection sort using function  
+15. Bubble sort Using function
+16. Binary search
+17. Recursion using binary search
+18. Linear Search
+
+19. 1/1! + 2/2! + 3/3! + 4/4! + .....
+
+20.Suppose we have a list of integers, list may contain duplicate values write a program to find the frequency of each integers in the list.
+
+21.Write a program to count number of vowels, consonants, digit and punctuation mark in a string.
+
+Home task:
+22. Write a program to find the partial abbreviation of a name. (Ex: Ram Kumar Sharma => R.K.Sharma)
+23. Write a program to find the length of the longest word in a string. 
+24. Write a program to count the occurrence of each word in a string. 
+25. Write a program to removed extra spaces, if any, between the words in a string. 
+26. Write a function to count the number of words in a string.
+
+

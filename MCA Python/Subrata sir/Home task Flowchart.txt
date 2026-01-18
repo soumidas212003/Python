@@ -1,0 +1,71 @@
+1.Draw a flowchart to sum 2 inputted integers.
+2.Draw a flowchart largest number among 2 inputted integers.
+3.Draw a flowchart largest number among 3 inputted integers.
+
+Home task:
+Draw flowchart :
+4. To find the average of 3 inputted numbers.
+5. To find the area and circumference of a circle.
+6. To convert a centigrade temperature into Fahrenheit. 
+7. To convert Fahrenheit temperature into centigrade. 
+8. To calculate simple interest.
+
+9.Draw a flowchart to find the sum of up to 1st n odd natural numbers.
+
+Home task:
+10. In a shop, a discount of 10% on purchase amount is given only if purchase amount exceeds Rs. 5000. Draw a Flowchart to find net payable amount. 
+[ Net Payable Amount = Purchase Amount - Discount]
+11. In a shop, a discount of 10% on purchase amount is given only if purchase amount exceeds Rs. 5000 otherwise 5% discount is given. Draw a Flowchart to find net payable amount. 
+[ Net Payable Amount = Purchase Amount - Discount]
+12. Draw a Flowchart to find the maximum between five inputted numbers.
+
+Home Task: -
+Q 13. In a certain city, telephone bill is calculated as per the followings rules:
+For first 75 calls, charge is fixed and is equal to Rs. 250;
+For next 75 calls, the rate is Rs. 0.80 per call;
+For next 75 calls, the rate is Rs. 1.00 per call;
+For calls beyond that, the rate is Rs. 1.20 per call.
+    	Draw a flowchart to calculate the telephone bill for the subscriber of that city.
+Q 14. In a courier company, charges for parcel is calculated as per the followings rules:
+For first 20 gms, charge is fixed and is equal to Rs. 25;
+For next each 10 gms and their part of, the charge is Rs. 5.
+        Draw a flowchart to calculate the charges for the parcel.
+
+Home task:
+15.  Draw a Flowchart to display the following series: 
+5  10  15  20  25  ....... upto N
+16. Draw a Flowchart to find the factorial of a number. 
+17. Draw a Flowchart to find the sum of the following series:
+2+5+8+11+14+ ........ upto N terms
+18. Draw a Flowchart to find the sum of the following series: 
+1+11+111+1111+.... upto N terms
+19. Draw a Flowchart to find the sum of the following series: 
+1+2+4+7+11+16+... upto N terms
+20. Draw a Flowchart to display the following series upto N number of terms:
+1  10  101  1010  10101....
+21. Draw a Flowchart to display all 3 digited numbers which are divisible by 3 but not divisible by 9.
+22. Draw a Flowchart to find the sum of the following series:
+1-3+5-7+9... upto N terms
+23. Draw a Flowchart to display the first N terms of the fibonacci series. 
+[0  1  1  2  3  5  8  13  21 .....  ]
+
+Home task:
+24. Draw a Flowchart to find the sum of the following series:
+1+3²+5³+7⁴+ ... upto N terms. 
+25. Draw a Flowchart to check whether a number is Prime or not.
+26. Draw a Flowchart to find the sum of the digits of a number. [ For example,  if the inputted number is 283, output will be 2+8+3=13]
+27. Draw a Flowchart to count the number of digits in a number.
+
+Home task:
+28. Draw a Flowchart to check whether an inputted number is perfect or not. If the sum of the factors (excluding the  number itself) of a number is same as the number, the number is known as Perfect number. 
+[Ex: 6=1+2+3, 28=1+2+4+7+14 ]
+29. Draw a Flowchart to reverse a number. 
+[Input: 536   output: 635 ]
+30. Draw a Flowchart to count the odd digits in a number. 
+[Input: 1473  output: 3 ]
+31. Find the sum of the following series: 
+1+ x/1! + x²/2! + x³/ 3!+... upto N terms
+32. Draw a Flowchart to check whether an inputted number is Peterson or not.
+[Ex: 145= 1!+4!+5!]
+
+
